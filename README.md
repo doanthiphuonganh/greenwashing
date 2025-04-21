@@ -1,2 +1,4 @@
 # greenwashing
-This is data for bibliometric review on greenwashing April 2025
+This is data for a bibliometric review on greenwashing, March 2025
+The data source used in this study is the Web of Science (WOS).
+Using the keyword "greenwashing," the WOS database returned 1,427 relevant studies. The author then filtered the results by document type, retaining only journal articles, which led to the removal of 189 documents, leaving 1,236 journal articles on greenwashing. The keyword "greenwashing" appears in various research fields. The author further refined the dataset by selecting only English-language articles, reducing the number to 1,192. Subsequently, filtering by Research Area and retaining only articles classified under Business Economics resulted in 609 articles. Among them, 50 were the most recent publications from 2025. As of March 5, 2025, WOS had not yet recorded citation data for these articles. To ensure data consistency, the study focuses on articles with available citation information in WOS up to March 5, 2025. Consequently, a total of 559 articles were included in the bibliometric analysis.
