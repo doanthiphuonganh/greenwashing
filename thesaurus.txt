@@ -1,0 +1,8 @@
+label,replace by
+corporate social responsibility,csr
+corporate social-responsibility,csr
+social responsibility,csr
+corporate social responsibility (csr),csr
+social-responsibility, csr
+responsibility, csr
+firms,firm
